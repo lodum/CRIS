@@ -25,7 +25,7 @@ import de.ifgi.lodum.util.XmlCacher;
 
 /**
  * @author Johannes Trame
- *
+ * 
  */
 public class CrisProject extends AbstractCrisObject{
 	Logger log =Logger.getLogger(this.getClass().getName());

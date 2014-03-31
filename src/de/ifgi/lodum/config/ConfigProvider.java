@@ -32,7 +32,7 @@ public class ConfigProvider extends Properties{
 		prop = new Properties();
 		FileInputStream fis = null;
 		try {
-			fis = new FileInputStream("/Users/peter/Code/eclipse-workspace/lodum/config/lodum.xml");
+			fis = new FileInputStream("config/lodum.xml");
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

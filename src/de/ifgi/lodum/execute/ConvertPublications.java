@@ -5,7 +5,6 @@ import com.hp.hpl.jena.query.QueryExecution;
 import com.hp.hpl.jena.query.QueryExecutionFactory;
 import com.hp.hpl.jena.query.QueryFactory;
 import com.hp.hpl.jena.rdf.model.Model;
-
 import de.ifgi.lodum.objects.CrisPublication;
 import de.ifgi.lodum.objects.LodumObject;
 
@@ -37,8 +36,10 @@ public class ConvertPublications {
 					"}"
 			);
 
-			QueryExecution qexec = QueryExecutionFactory.sparqlService("http://data.uni-muenster.de/sparql", query);
-
+			//QueryExecution qexec = QueryExecutionFactory.sparqlService("http://data.uni-muenster.de/sparql", query);
+			
+			QueryExecution qexec = QueryExecutionFactory.sparqlService("http://giv-lodum.uni-muenster.de:8080/openrdf-sesame/repositories/lod4wfs2", query);
+			//http://giv-lodum.uni-muenster.de:8080/openrdf-sesame/repositories/agile-lod4wfs
 			Model results = qexec.execConstruct();
 
 			rel.getObjectModel().add(results);
