@@ -1,0 +1,8 @@
+<!ENTITY ical SYSTEM "http://www.w3.org/2002/12/cal/ical#">
+<!ENTITY xsd  SYSTEM "http://www.w3.org/2001/XMLSchema#" >
+<!ENTITY rdfs SYSTEM "http://www.w3.org/2000/01/rdf-schema#" >
+<!ENTITY foaf SYSTEM "http://xmlns.com/foaf/0.1#">
+<!ENTITY dc SYSTEM "http://purl.org/dc/elements/1.1/#">
+<!ENTITY geo SYSTEM "http://www.w3.org/2003/01/geo/wgs84_pos#">
+<!ENTITY georss SYSTEM "http://www.georss.org/georss#">
+<!ENTITY owl SYSTEM "http://www.w3.org/2002/07/owl#">

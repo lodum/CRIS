@@ -1,0 +1,1115 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f
+END
+func-str-dropWhile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-str-dropWhile.xsl
+END
+maximum.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/maximum.xsl
+END
+sqrt.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/sqrt.xsl
+END
+func-filter.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-filter.xsl
+END
+trim.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/trim.xsl
+END
+func-type.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-type.xsl
+END
+func-str-foldl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-str-foldl.xsl
+END
+func-apply2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-apply2.xsl
+END
+func-qsort3.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-qsort3.xsl
+END
+doubleall.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/doubleall.xsl
+END
+func-foldl2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-foldl2.xsl
+END
+arcHTrignm.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/arcHTrignm.xsl
+END
+func-dvc-foldl-oldStyle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-dvc-foldl-oldStyle.xsl
+END
+func-closure.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-closure.xsl
+END
+func-zipWithDVC.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-zipWithDVC.xsl
+END
+func-Primes2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-Primes2.xsl
+END
+func-standardStringXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardStringXpathFunctions.xsl
+END
+buildListWhileMap.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/buildListWhileMap.xsl
+END
+func-Primes4.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-Primes4.xsl
+END
+func-str-map.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-str-map.xsl
+END
+elimError.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/elimError.xsl
+END
+func-str-reverse.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-str-reverse.xsl
+END
+func-curry.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-curry.xsl
+END
+func-Spell.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-Spell.xsl
+END
+func-foldl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-foldl.xsl
+END
+random.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/random.xsl
+END
+func-standardAxisXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardAxisXpathFunctions.xsl
+END
+runningTotal.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/runningTotal.xsl
+END
+func-qsort.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-qsort.xsl
+END
+func-scanl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-scanl.xsl
+END
+PartialSumsList.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/PartialSumsList.xsl
+END
+func-foldr.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-foldr.xsl
+END
+improvedIntegration.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/improvedIntegration.xsl
+END
+func-allTrueP.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-allTrueP.xsl
+END
+span.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/span.xsl
+END
+func-multiMap.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-multiMap.xsl
+END
+arcTrignm.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/arcTrignm.xsl
+END
+str-takeWhile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/str-takeWhile.xsl
+END
+allTrue.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/allTrue.xsl
+END
+dvc-foldl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/dvc-foldl.xsl
+END
+func-split.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-split.xsl
+END
+func-map.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-map.xsl
+END
+func-drop.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-drop.xsl
+END
+pow.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/pow.xsl
+END
+func-reverse.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-reverse.xsl
+END
+trignm.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/trignm.xsl
+END
+hyper-trignm.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/hyper-trignm.xsl
+END
+map.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/map.xsl
+END
+combinatorics.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/combinatorics.xsl
+END
+str-filterDVC.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/str-filterDVC.xsl
+END
+addTree.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/addTree.xsl
+END
+store.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/store.xsl
+END
+func-Operators.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-Operators.xsl
+END
+func-standardSequencesXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardSequencesXpathFunctions.xsl
+END
+func-scanlDVC.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-scanlDVC.xsl
+END
+drop.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/drop.xsl
+END
+product.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/product.xsl
+END
+str-foldl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/str-foldl.xsl
+END
+hex-to-decimal.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/hex-to-decimal.xsl
+END
+strSplit-to-Lines.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/strSplit-to-Lines.xsl
+END
+func-lift.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-lift.xsl
+END
+strSplit-to-Words2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/strSplit-to-Words2.xsl
+END
+filter.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/filter.xsl
+END
+improve.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/improve.xsl
+END
+tree-labels-list.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/tree-labels-list.xsl
+END
+func-zipWith.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-zipWith.xsl
+END
+split-to-lines.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/split-to-lines.xsl
+END
+randomList.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/randomList.xsl
+END
+dropWhile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/dropWhile.xsl
+END
+func-minimum.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-minimum.xsl
+END
+func-str-takeWhile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-str-takeWhile.xsl
+END
+compose-flist.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/compose-flist.xsl
+END
+func-standardNodesXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardNodesXpathFunctions.xsl
+END
+func-pick.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-pick.xsl
+END
+genHOFFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/genHOFFunctions.xsl
+END
+zipWith3.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/zipWith3.xsl
+END
+func-XpathConstructors.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-XpathConstructors.xsl
+END
+func-standardArithmeticXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardArithmeticXpathFunctions.xsl
+END
+processConcordPass1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/processConcordPass1.xsl
+END
+improvedDiff.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/improvedDiff.xsl
+END
+buildListUntil.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/buildListUntil.xsl
+END
+compose.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/compose.xsl
+END
+func-exp.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-exp.xsl
+END
+func-str-filterDVC.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-str-filterDVC.xsl
+END
+str-filter.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/str-filter.xsl
+END
+elimError2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/elimError2.xsl
+END
+func-json-document.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-json-document.xsl
+END
+func-maximum.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-maximum.xsl
+END
+generateFromTo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/generateFromTo.xsl
+END
+strSpan.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/strSpan.xsl
+END
+exp.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/exp.xsl
+END
+func-Primes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-Primes.xsl
+END
+foldl-tree.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/foldl-tree.xsl
+END
+func-partition.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-partition.xsl
+END
+someTrue.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/someTrue.xsl
+END
+func-apply.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-apply.xsl
+END
+func-someTrueP.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-someTrueP.xsl
+END
+func-maxDepth.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-maxDepth.xsl
+END
+func-transform-and-sum.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-transform-and-sum.xsl
+END
+func-qsort2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-qsort2.xsl
+END
+productTree.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/productTree.xsl
+END
+salesMap.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/salesMap.xsl
+END
+dvc-str-foldl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/dvc-str-foldl.xsl
+END
+func-Primes3.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-Primes3.xsl
+END
+findRoot.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/findRoot.xsl
+END
+func-Fibonacci.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-Fibonacci.xsl
+END
+func-str-filter.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-str-filter.xsl
+END
+identity.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/identity.xsl
+END
+func-standardDateTimeXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardDateTimeXpathFunctions.xsl
+END
+func-compose-flist.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-compose-flist.xsl
+END
+func-standardBooleanXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardBooleanXpathFunctions.xsl
+END
+str-map.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/str-map.xsl
+END
+func-partitionCC.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-partitionCC.xsl
+END
+func-sum.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-sum.xsl
+END
+simpleIntegration.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/simpleIntegration.xsl
+END
+func-append.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-append.xsl
+END
+func-id.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-id.xsl
+END
+func-lrParse.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-lrParse.xsl
+END
+func-repeat.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-repeat.xsl
+END
+func-standardXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardXpathFunctions.xsl
+END
+func-allTrue.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-allTrue.xsl
+END
+func-binSearch.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-binSearch.xsl
+END
+func-standardXSLTXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardXSLTXpathFunctions.xsl
+END
+func-foldl-tree.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-foldl-tree.xsl
+END
+func-choice.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-choice.xsl
+END
+sum.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/sum.xsl
+END
+improvedDiffList.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/improvedDiffList.xsl
+END
+func-addTree.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-addTree.xsl
+END
+func-flip.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-flip.xsl
+END
+withinRelative.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/withinRelative.xsl
+END
+func-binRetrieve.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-binRetrieve.xsl
+END
+monteCarlo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/monteCarlo.xsl
+END
+func-getWords.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-getWords.xsl
+END
+allTrueP.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/allTrueP.xsl
+END
+reverse.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/reverse.xsl
+END
+buildListWhile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/buildListWhile.xsl
+END
+easyDiffList.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/easyDiffList.xsl
+END
+func-product.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-product.xsl
+END
+str-dropWhile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/str-dropWhile.xsl
+END
+func-doubleall.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-doubleall.xsl
+END
+func-dvc-str-foldl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-dvc-str-foldl.xsl
+END
+partition.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/partition.xsl
+END
+takeWhile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/takeWhile.xsl
+END
+within.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/within.xsl
+END
+someTrueP.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/someTrueP.xsl
+END
+strReverse.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/strReverse.xsl
+END
+stdDev.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/stdDev.xsl
+END
+transform-and-sum.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/transform-and-sum.xsl
+END
+func-zipWith3.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-zipWith3.xsl
+END
+func-projection.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-projection.xsl
+END
+multiIntegrate.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/multiIntegrate.xsl
+END
+func-str-dvc-map.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-str-dvc-map.xsl
+END
+func-iter.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-iter.xsl
+END
+func-progressions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-progressions.xsl
+END
+scanlDVC.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/scanlDVC.xsl
+END
+func-arcTrignm.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-arcTrignm.xsl
+END
+func-trignm.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-trignm.xsl
+END
+str-dvc-map.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/str-dvc-map.xsl
+END
+func-dvc-foldl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-dvc-foldl.xsl
+END
+curry.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/curry.xsl
+END
+take.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/take.xsl
+END
+zipWith.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/zipWith.xsl
+END
+func-compose.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-compose.xsl
+END
+func-sqrt.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-sqrt.xsl
+END
+sumTree.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/sumTree.xsl
+END
+makeDistinct.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/makeDistinct.xsl
+END
+zipWithDVC.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/zipWithDVC.xsl
+END
+foldl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/foldl.xsl
+END
+func-someTrue.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-someTrue.xsl
+END
+func-trim.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-trim.xsl
+END
+parseTables-Jason.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/parseTables-Jason.xml
+END
+minimum.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/minimum.xsl
+END
+scanl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/scanl.xsl
+END
+foldr.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/foldr.xsl
+END
+concat.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/concat.xsl
+END
+func-concat2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-concat2.xsl
+END
+func-standardAggregateXpathFunctions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-standardAggregateXpathFunctions.xsl
+END
+iter.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/iter.xsl
+END
+append.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/append.xsl
+END
+func-const.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-const.xsl
+END
+func-hex-to-decimal.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/func-hex-to-decimal.xsl
+END
+mapTree.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/mapTree.xsl
+END
+split.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/split.xsl
+END
+strSplit-to-Words.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/strSplit-to-Words.xsl
+END
+roundLog2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/lib/fxsl/f/roundLog2.xsl
+END

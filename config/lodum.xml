@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Configuration porperties for CRIS</comment>
+<entry key="crisURL">https://www.uni-muenster.de/forschungaz/ws/public/infoobject/</entry>
+<!--<entry key="repositoryURL">http://giw-fone.uni-muenster.de:8080/openrdf-sesame/</entry>-->
+<entry key="repositoryURL">http://giv-lodum.uni-muenster.de:8080/openrdf-sesame/</entry>
+<entry key="repositoryID">lod4wfs2</entry>
+
+<!--Folders-->
+<entry key="backupFolder">backup/</entry>
+<entry key="cacheFolder">cache/</entry>
+<entry key="conversionFolder">conversion/</entry>
+<entry key="logFolder">logs/</entry>
+<entry key="conversionArchiveFolder">conversionArchive/</entry>
+
+
+<!--Contexts-->
+<entry key="crisPersonNS">http://data.uni-muenster.de/context/cris/person/</entry>
+<entry key="crisPublicationNS">http://data.uni-muenster.de/context/cris/publication/</entry>
+<entry key="crisOrgaNS">http://data.uni-muenster.de/context/cris/organization/</entry>
+<entry key="crisProjectNS">http://data.uni-muenster.de/context/cris/project/</entry>
+<entry key="provenanceGraph">http://data.uni-muenster.de/context/provenance/</entry>
+
+</properties>

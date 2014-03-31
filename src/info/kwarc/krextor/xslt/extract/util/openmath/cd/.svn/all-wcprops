@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd
+END
+rounding1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/rounding1.xsl
+END
+nums1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/nums1.xsl
+END
+setname1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/setname1.xsl
+END
+arith1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/arith1.xsl
+END
+setname2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/setname2.xsl
+END
+arith2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/arith2.xsl
+END
+fns1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/fns1.xsl
+END
+linalg1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/linalg1.xsl
+END
+calculus1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/calculus1.xsl
+END
+fns2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/fns2.xsl
+END
+linalg2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/linalg2.xsl
+END
+linalg3.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/linalg3.xsl
+END
+linalg5.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/linalg5.xsl
+END
+sts.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/sts.xsl
+END
+integer1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/integer1.xsl
+END
+integer2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/integer2.xsl
+END
+relation1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/relation1.xsl
+END
+combinat1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/combinat1.xsl
+END
+permgp2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/permgp2.xsl
+END
+s_dist1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/s_dist1.xsl
+END
+sts2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/sts2.xsl
+END
+complex1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/complex1.xsl
+END
+piece1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/piece1.xsl
+END
+bessel.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/bessel.xsl
+END
+interval1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/interval1.xsl
+END
+quant1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/quant1.xsl
+END
+set1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/set1.xsl
+END
+altenc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/altenc.xsl
+END
+set3.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/set3.xsl
+END
+list1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/list1.xsl
+END
+logic1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/logic1.xsl
+END
+list2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/list2.xsl
+END
+alg1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/alg1.xsl
+END
+bigfloat1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/bigfloat1.xsl
+END
+limit1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/limit1.xsl
+END
+transc1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath/cd/transc1.xsl
+END

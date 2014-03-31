@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract
+END
+xmath.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/xmath.xsl
+END
+cris_organisation.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musil/!svn/ver/1954/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/cris_organisation.xsl
+END
+ulbConvertion.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1936/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/ulbConvertion.xsl
+END
+cris_education.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1954/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/cris_education.xsl
+END
+cris_price.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1939/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/cris_price.xsl
+END
+ns.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/ns.xsl
+END
+hcalendar.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/hcalendar.xsl
+END
+cris_publication.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/musil/!svn/ver/1954/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/cris_publication.xsl
+END
+osm.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/musil/!svn/ver/1918/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/osm.xsl
+END
+cris_position.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1954/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/cris_position.xsl
+END
+ocd.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/ocd.xsl
+END
+omdoc-owl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/omdoc-owl.xsl
+END
+stylesheet.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/stylesheet.dtd
+END
+test.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/test.xsl
+END
+cris_project.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/musil/!svn/ver/1954/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/cris_project.xsl
+END
+cris_card.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1954/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/cris_card.xsl
+END
+xhtml-rdfa.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/xhtml-rdfa.xsl
+END
+xml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/xml.xsl
+END
+omdoc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/omdoc.xsl
+END
+cris_person.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musil/!svn/ver/1954/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/cris_person.xsl
+END

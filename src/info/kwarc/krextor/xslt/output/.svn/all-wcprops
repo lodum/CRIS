@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/output
+END
+rdf-xml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/output/rdf-xml.xsl
+END
+java.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/output/java.xsl
+END
+ntriples.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/output/ntriples.xsl
+END
+none.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/output/none.xsl
+END
+rxr.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/output/rxr.xsl
+END
+turtle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/output/turtle.xsl
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util
+END
+rdfa.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/rdfa.xsl
+END
+openmath.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/openmath.xsl
+END
+html-base.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/html-base.xsl
+END
+ntn.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/ntn.xsl
+END
+omdoc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/omdoc.xsl
+END
+misc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/musil/!svn/ver/1893/1775%20LODUM/eclipse-workspace/trunk/de.ifgi.lodum/xslt/extract/util/misc.xsl
+END
