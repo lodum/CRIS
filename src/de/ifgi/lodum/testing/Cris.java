@@ -87,40 +87,63 @@ public class Cris {
 			}
 		}  */
 		
-		 createPersonPublicationRelation();
+		//createPersonPublicationRelation();
 		
 		//createPersonOrganizationRelation();
 		
 		// 1.	load all cards
-		//convertCards();
+		System.out.println("1. load all cards");
+		convertCards();
+		
 		// 2. load all organizations
-		//convertOrganizations();
+		System.out.println("2. load all organizations");
+		convertOrganizations();
+		
 		// 3. connect Organizations with  Cards
+		System.out.println("3. connect Organizations with  Cards");
 		//addCardIdsToOrgas();
 		//addCardsToOrgas();
+		
 		// 4. convert all Persons
-		// convertPersons();
-		//readInPersons();
+		System.out.println("4. convert all Persons");
+		convertPersons();
+		readInPersons();
+		
 		// 5. convert all education information and link/add them directly to Persons
-		//testEducation();
+		System.out.println("5. convert all education information and link/add them directly to Persons");
+		testEducation();
+		
 		// 6. relate all persons to organizations
-		//createPersonOrganizationRelation();
+		System.out.println("6. relate all persons to organizations");
+		createPersonOrganizationRelation();
+		
 		// 7. convert all CRIS projects
-		//convertProjects();
+		System.out.println("7. convert all CRIS projects");
+		convertProjects();
+		
 		// 8. relate all projects to persons
-		//createProjectPersonRelation();
+		System.out.println("8. relate all projects to persons");
+		createProjectPersonRelation();
+		
 		// 9. convert Publications
-		//convertPublications();
+		System.out.println("9. convert Publications");
+		convertPublications();
+		
 		// 10. relate persons and publications
-		//createPersonPublicationRelation();
+		System.out.println("10. relate persons and publications");
+		createPersonPublicationRelation();
+		
 		// 11. 
-		//crawlAndConvertPrices();
+		System.out.println("11.");
+		crawlAndConvertPrices();
+		
 		// 12. create all persons relations
-		//	createProjectPersonRelation();
-		//createPersonOrganizationRelation();
-		//	createPersonAwardRelation();
-		//	createPersonPublicationRelation();
-		//crawlAndConvertPrices();
+		System.out.println("12. create all persons relations");
+		createProjectPersonRelation();
+		createPersonOrganizationRelation();
+		createPersonAwardRelation();
+		createPersonPublicationRelation();
+		crawlAndConvertPrices();
 
 		//	convertOrganizations();
 		//		createPersonFoafDepiction();
@@ -345,7 +368,7 @@ public class Cris {
 
 			//	String[] files={"W_person.xml"};
 			
-			File folder = new File("testxml/persons_24_05_2012");
+			File folder = new File("testxml/2014-04-07person");
 			File[] listOfFiles = folder.listFiles();
 			ArrayList<String> pubs = new ArrayList<String>();
 			for (int i = 0; i < listOfFiles.length; i++) {
@@ -358,9 +381,9 @@ public class Cris {
 			for(String file:pubs){
 				System.out.println("Starting to process file:" + file);
 				CrisPerson crisPerson = new CrisPerson("http://data.uni-muenster.de/context/cris/person/");
-				BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("testxml/persons_24_05_2012/"+file),Charset.forName("UTF-8")));
+				BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("testxml/2014-04-07person/"+file),Charset.forName("UTF-8")));
 				crisPerson.readIntoModel("cris_person",in);
-				crisPerson.getObjectModel().write(new FileOutputStream(new File("conversion/persons_24_05_2012/"+file+".ttl")), "TURTLE");
+				crisPerson.getObjectModel().write(new FileOutputStream(new File("conversion/2014-04-07person/"+file+".ttl")), "TURTLE");
 				//crisPerson.commitModelToStore();
 				System.out.println("Finished processing file:" + file);
 			}
@@ -386,13 +409,13 @@ public class Cris {
 	
 	private static void readInPersons(){
 		CrisPerson crisPerson = new CrisPerson("http://data.uni-muenster.de/context/cris/person1/");
-		File folder = new File("conversion/persons_24_05_2012");
+		File folder = new File("conversion/2014-04-07person");
 		File[] listOfFiles = folder.listFiles();
 		
 		for (int i = 0; i < listOfFiles.length; i++) {
 		  if (listOfFiles[i].isFile()) {
 			  try {
-					crisPerson.getReposConnection().add(new File("conversion/persons_24_05_2012/"+listOfFiles[i].getName()),"http://data.uni-muenster.de/context/",RDFFormat.TURTLE) ;
+					crisPerson.getReposConnection().add(new File("conversion/2014-04-07person/"+listOfFiles[i].getName()),"http://data.uni-muenster.de/context/",RDFFormat.TURTLE) ;
 					crisPerson.commitModelToStore();
 					System.out.println(listOfFiles[i].getName() +" have been commited");
 				} catch (RDFParseException e) {

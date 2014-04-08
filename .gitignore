@@ -1,2 +1,8 @@
 bin/
 testxml/
+logs/*
+cache/publications/*
+cache/PERS_HAS_CARD/*
+cache/CARD_HAS_ORGA/*
+cache/persons/*
+conversionArchive/*
