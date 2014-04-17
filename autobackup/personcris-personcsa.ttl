@@ -1,0 +1,55 @@
+<http://data.uni-muenster.de/context/cris/person/11586>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/TheodorFoerster> .
+
+<http://data.uni-muenster.de/context/cris/person/7595>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/EdzerPebesma> .
+
+<http://data.uni-muenster.de/context/cris/person/9148>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/WernerKuhn> .
+
+<http://data.uni-muenster.de/context/cris/person/13540>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/GeorgKaspar> .
+
+<http://data.uni-muenster.de/context/cris/person/10441>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/PatrickMaue> .
+
+<http://data.uni-muenster.de/context/cris/person/11338>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/SimonScheider> .
+
+<http://data.uni-muenster.de/context/cris/person/10705>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/CatharinaRiedemann> .
+
+<http://data.uni-muenster.de/context/cris/person/7567>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/AngelaSchwering> .
+
+<http://data.uni-muenster.de/context/cris/person/6738>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/ChristophBrox> .
+
+<http://data.uni-muenster.de/context/cris/person/16779>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/Malumbo_ChakaChipofya> .
+
+<http://data.uni-muenster.de/context/cris/person/9007>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/KatharinaHenneboehl> .
+
+<http://data.uni-muenster.de/context/cris/person/10311>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/OliverPaczkowski> .
+
+<http://data.uni-muenster.de/context/cris/person/10537>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/TorstenPrinz> .
+
+<http://data.uni-muenster.de/context/cris/person/6646>
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://data.uni-muenster.de/context/csa/teacher/BenediktGraeler> .

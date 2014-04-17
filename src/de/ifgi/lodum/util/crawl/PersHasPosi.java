@@ -116,7 +116,6 @@ public class PersHasPosi {
 		try {
 			m = eduObject.readAndReturnModel("cris_position", new BufferedReader(new InputStreamReader(new FileInputStream(new File(config.getProperty("cacheFolder")+"/PERS_has_POSI/"+personId+".xml")),Charset.forName("UTF-8"))));
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		ResIterator subjects = m.listSubjectsWithProperty(m.createProperty("http://rdfs.org/resume-rdf/#startDate"));

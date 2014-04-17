@@ -41,6 +41,9 @@ public class CrisProject extends AbstractCrisObject{
 		return true;
 	}
 
+	public static void main(String[] args) {
+		
+	}
 	@Override
 	public void readIntoModel(Reader reader) {
 		Model m = ModelFactory.createDefaultModel();
@@ -109,7 +112,7 @@ public class CrisProject extends AbstractCrisObject{
 			String url =config.getProperty("crisURL")+"findsimple/Project/Acronym/*";
 			File f=new XmlCacher().getXML(url,this.date+"_"+this.crisEntityName+"_all.xml", config);
 			fl.add(f);
-			this.log.info("Cached XML form "+url+" to file"+ f.getName());
+			this.log.info("Cached XML form "+url+" to file "+ f.getName());
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

@@ -4,8 +4,8 @@
 <comment>Configuration porperties for CRIS</comment>
 <entry key="crisURL">https://www.uni-muenster.de/forschungaz/ws/public/infoobject/</entry>
 <!--<entry key="repositoryURL">http://giw-fone.uni-muenster.de:8080/openrdf-sesame/</entry>-->
-<entry key="repositoryURL">http://giv-lodum.uni-muenster.de:8080/openrdf-sesame/</entry>
-<entry key="repositoryID">lod4wfs2</entry>
+<entry key="repositoryURL">http://data.uni-muenster.de:8080/openrdf-sesame/</entry>
+<entry key="repositoryID">lodumhbz</entry>
 
 <!--Folders-->
 <entry key="backupFolder">backup/</entry>
